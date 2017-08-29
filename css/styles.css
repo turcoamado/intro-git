@@ -1,0 +1,11 @@
+body {
+  font-style: "sans-serif";
+}
+
+.box{
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  background-color: coral;
+  border: solid 1px;
+}
